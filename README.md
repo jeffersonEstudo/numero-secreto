@@ -2,6 +2,6 @@
 <hr>
 <p><strong> Técnologias</strong></p>
 
-<p> HTML</p>
-<p>CSS</p>
-<p>JS</p>
+<div> HTML |
+CSS |
+JS</div>
